@@ -1,0 +1,19 @@
+.layout {
+  min-height: 100vh;
+}
+
+.site-layout-content {
+  min-height: 280px;
+  padding: 24px;
+  background: #fff;
+  border-radius: 4px;
+  margin-top: 24px;
+}
+
+.ant-table {
+  background: #fff;
+}
+
+.ant-card {
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.03);
+}
